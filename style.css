@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.container {
+    color: aqua;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+}
