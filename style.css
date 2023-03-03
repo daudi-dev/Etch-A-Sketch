@@ -1,11 +1,13 @@
-body {
+/*body {
     margin: 0;
     background-color: blueviolet;
     color: aliceblue;
-}
-.container {
-    color: aqua;
-    background-color: bisque;
+}*/
+#container div{
     display: flex;
-    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(219, 7, 35);
+   
+    margin: 10px;
+    padding: 10px;
 }

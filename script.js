@@ -22,5 +22,5 @@
         console.log(container);
        
 
-    document.getElementById('container').appendChild(divs);
+   // document.getElementById('container').appendChild(divs);
 
