@@ -5,9 +5,12 @@
 }*/
 #container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    width: 175px;
+    height: auto;
     flex-wrap: wrap;
+    gap: 5px;
 }
 #container div{
     width: 2rem;
